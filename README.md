@@ -10,5 +10,3 @@ Hello I am a 5th-semester student at the Institute Business and Technology Indon
 - Boostrap
 - Tailwind CSS
 - Laravel
-
-[![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianpramana&show_icons=true&theme=onedark)](https://github.com/adrianpramana/github-readme-stats)
