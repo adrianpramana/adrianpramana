@@ -7,7 +7,7 @@
 
 Hello 👋 I am a 5th-semester student at the Institute Business and Technology Indonesian (INSTIKI) majoring in informatics engineering. Passionate about technology, mathematics, and science. My hobbies are reading and enjoying automotive, especially motorcycles.
 
-## Tech Stack   
+# Tech Stack   
 <div align="left">
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 </div>
