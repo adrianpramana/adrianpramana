@@ -20,4 +20,4 @@ Hello 👋 I am a 5th-semester student at the Institute Business and Technology 
 <br>
 
 ### Reach me
-[![Instagram](https://img.shields.io/badge/radespratamaa%20-%23F3F6F5.svg?&style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/adrianpramanaa_)
+[![Instagram](https://img.shields.io/badge/adrianpramanaa_%20-%23F3F6F5.svg?&style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/adrianpramanaa_)
