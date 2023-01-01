@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/adrianpramana/img-readme-profile/blob/main/AdrianPramana.png" />
+  <img style="border-radius: 10px;" src="https://github.com/adrianpramana/img-readme-profile/blob/main/AdrianPramana.png" />
 </div>
 <br />
 
@@ -9,7 +9,6 @@ Hello 👋 I am a 5th-semester student at the Institute Business and Technology 
 
 # Tech Stack   
 <div align="left">
-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 </div>
 <br>
 
