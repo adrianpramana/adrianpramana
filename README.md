@@ -10,3 +10,5 @@ Hello 👋 I am a 5th-semester student at the Institute Business and Technology 
 - ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 <a style="text-align: right;"> ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) </a>
 <a style="text-align: right;"> ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianpramana&layout=compact)](https://github.com/adrianpramana/github-readme-stats)
