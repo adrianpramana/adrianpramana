@@ -9,7 +9,7 @@ Hello 👋 I am a 5th-semester student at the Institute Business and Technology 
 
 ## Tech Stack   
 <div align="left">
-![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 </div>
 <br>
 
