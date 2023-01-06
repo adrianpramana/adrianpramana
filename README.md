@@ -3,6 +3,8 @@
 </div>
 <br />
 
+![Satya Wikananda's card name](https://cardivo.vercel.app/api?name=Adrian%20Pramana&description=Web%20Developer&image=https://drive.google.com/file/d/1rYwy8t89f8CTPyTIfiuKxvr4TQf1ZOCm/view?usp=share_link)
+
 # Adrian Pramana
 
 Hello 👋 I am a 5th-semester student at the Institute Business and Technology Indonesian (INSTIKI) majoring in informatics engineering. Passionate about technology, mathematics, and science. My hobbies are reading and enjoying automotive, especially motorcycles.
