@@ -3,9 +3,6 @@
 </div>
 <br />
 
-![Satya wikananda's card name](https://cardivo.vercel.app/api?name=Adrian%20Pramana&description=Hi,%20i%27m%20a%20front%20end%20web%20developer%20and%20i%27m%2020%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://drive.google.com/file/d/1rYwy8t89f8CTPyTIfiuKxvr4TQf1ZOCm/view?usp=sharing&backgroundColor=%23ecf0f1&instagram=adrianpramana&linkedin=I%20Made%20Adrian%20Astalina%20%20Pramana&github=adrianpramana&twitter=adrian_pramana&pattern=leaf&colorPattern=%23eaeaea)
-
-
 # Adrian Pramana
 
 Hello 👋 I am a 5th-semester student at the Institute Business and Technology Indonesian (INSTIKI) majoring in informatics engineering. Passionate about technology, mathematics, and science. My hobbies are reading and enjoying automotive, especially motorcycles.
