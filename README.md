@@ -3,7 +3,8 @@
 </div>
 <br />
 
-![Satya Wikananda's card name](https://cardivo.vercel.app/api?name=Adrian%20Pramana&description=Web%20Developer&image=https://drive.google.com/file/d/1rYwy8t89f8CTPyTIfiuKxvr4TQf1ZOCm/view?usp=share_link&pattern=leaf&colorPattern=%23eaeaea?backgroundColor=#FFFFFF)
+![Satya wikananda's card name](https://cardivo.vercel.app/api?name=Adrian%20Pramana&description=Hi,%20i%27m%20a%20front%20end%20web%20developer%20and%20i%27m%2020%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/33148052?v=4&backgroundColor=%23ecf0f1&instagram=adrianpramana&linkedin=I%20Made%20Adrian%20Astalina%20%20Pramana&github=adrianpramana&twitter=adrian_pramana&pattern=leaf&colorPattern=%23eaeaea)
+
 
 # Adrian Pramana
 
