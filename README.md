@@ -1,11 +1,6 @@
-<div align="center">
-  <img style="border-radius: 10px;" src="https://github.com/adrianpramana/img-readme-profile/blob/main/AdrianPramana.png" />
-</div>
-<br />
-
 # Adrian Pramana
 
-Hello 👋 I am a 5th-semester student at the Institute Business and Technology Indonesian (INSTIKI) majoring in informatics engineering. Passionate about technology, mathematics, and science. My hobbies are reading and enjoying automotive, especially motorcycles.
+Hello 👋 I am a student at the Institute Business and Technology Indonesian (INSTIKI) majoring in informatics engineering. Passionate about technology, mathematics, and science. My hobbies are reading and enjoying automotive, especially motorcycles.
 
 # Tech Stack   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
