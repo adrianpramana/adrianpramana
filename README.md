@@ -1,4 +1,7 @@
-# Adrian Pramana
+<div align="center">
+  <img style="border-radius: 10px;" src="https://github.com/adrianpramana/img-readme-profile/blob/main/banner-linkedin.png" />
+</div>
+<br />
 
 Hello 👋 I am a student at the Institute Business and Technology Indonesian (INSTIKI) majoring in informatics engineering. Passionate about technology, mathematics, and science. My hobbies are reading and enjoying automotive, especially motorcycles.
 
