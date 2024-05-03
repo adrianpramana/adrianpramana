@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="border-radius: 10px;" src="https://github.com/adrianpramana/img-readme-profile/blob/main/banner-linkedin.png" />
+  <img style="border-radius: 10px;" src="https://github.com/adrianpramana/img-readme-profile/blob/main/My LinkedIn Banner 2024 Edition.png" />
 </div>
 <br />
 
